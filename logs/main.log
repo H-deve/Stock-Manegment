@@ -1,0 +1,1 @@
+[ERROR] 2025-09-22 16:00:15.382 [AWT-EventQueue-0] GUISiteController - Erreur lors de l'affichage des produits : Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
