@@ -21,7 +21,6 @@ This document provides a **comprehensive overview** of the **Stock Management** 
 - Functional specifications
 - Technical architecture choices
 - Data models
-- Algorithms
 - Implementation details
 
 ---
@@ -117,6 +116,7 @@ This project was developed to practice:
 
 This project is developed for **educational purposes only**.  
 All third-party libraries remain under their respective licenses.
+
 
 
 
